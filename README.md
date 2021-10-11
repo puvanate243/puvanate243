@@ -1,5 +1,13 @@
 ### 👋 Hi I'm Puvanate Phesatcha, Welcome to my Github profile :upside_down_face:	:upside_down_face:	
 
+#### :smiling_face_with_three_hearts: Looking for
+I’m looking for new job about C# Developer, Back-end Developer or Game Developer position.
+
+#### :office: Experience
+I have experience about C# .Net 2 years about stock management system both windows form application and web application.
+
+#### :star: Interested
+I'm very interested in game development by Unity.
 
 <!--
 **puvanate243/puvanate243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
