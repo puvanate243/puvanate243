@@ -1,13 +1,10 @@
 ### 👋 Hi I'm Puvanate Phesatcha, Welcome to my Github profile :upside_down_face:	:upside_down_face:	
 
-#### :smiling_face_with_three_hearts: Looking for
-I’m looking for new job about C# Developer, Back-end Developer or Game Developer position.
+#### :office: I’m currently working on game developer position :star:
+I made multiplayer games and single player games. I used photon pun 2 networking and fishnet networking for multiplayer game.
 
-#### :office: Experience
-I have experience about C# .Net 2 years about stock management system both windows form application and web application.
-
-#### :star: Interested
-I'm very interested in game development by Unity.
+#### :+1: I'm looking to collaborate on a big game project. :heart:
+I've only done small projects. So I want to learn how to work professionally. And I believe that if I have a chance to do it I will do it very well. Because I love making games and am always excited about it.
 
 <!--
 **puvanate243/puvanate243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
