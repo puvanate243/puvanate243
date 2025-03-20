@@ -1,22 +1,18 @@
-### 👋 Hi I'm Puvanate Phesatcha, Welcome to my Github profile :upside_down_face:	:upside_down_face:	
+👋 Hi, I'm Puvanate Phesatcha
+🚀 Unity Developer
 
-#### :office: I’m currently working on game developer position :star:
-I made multiplayer games and single player games. I used photon pun 2 networking and fishnet networking for multiplayer game.
+🎮 About Me
+I am a Unity Developer with 5+ years of experience in game development, specializing in:
+✔ C# & Unity – Developing both single-player & multiplayer games
+✔ Multiplayer Networking – Using Photon PUN2, Mirror, and FishNet
+✔ Optimization – Implementing design patterns, object pooling, draw call reduction, and Addressables
+✔ WebGL Game Development – Creating high-performance browser-based games
+✔ SQL & LINQ – Managing backend data for game-related systems
 
-#### :+1: I'm looking to collaborate on a big game project. :heart:
-I've only done small projects. So I want to learn how to work professionally. And I believe that if I have a chance to do it I will do it very well. Because I love making games and am always excited about it.
+🤝 Looking to Collaborate
+I’m passionate about multiplayer game development and real-time networking. I’m open to collaborating on projects involving co-op gameplay, strategy mechanics, and WebGL gaming.
 
-<!--
-**puvanate243/puvanate243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to Reach Me
+📩 Email: puvanate243@outlook.com
+💼 LinkedIn: Puvanate Phesatcha
+🎥 YouTube (Devlogs): Synestar Studios
